@@ -1,0 +1,1 @@
+compras = "SELECT c FROM Compra c WHERE c.compradorId.dataId=:id"
